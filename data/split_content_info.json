@@ -1,0 +1,136 @@
+{
+  "all_content": [
+    {
+      "char": "啊",
+      "index": 0
+    },
+    {
+      "char": "阿",
+      "index": 1
+    },
+    {
+      "char": "埃",
+      "index": 2
+    },
+    {
+      "char": "挨",
+      "index": 3
+    },
+    {
+      "char": "哎",
+      "index": 4
+    },
+    {
+      "char": "唉",
+      "index": 5
+    },
+    {
+      "char": "哀",
+      "index": 6
+    },
+    {
+      "char": "皑",
+      "index": 7
+    },
+    {
+      "char": "癌",
+      "index": 8
+    },
+    {
+      "char": "蔼",
+      "index": 9
+    },
+    {
+      "char": "矮",
+      "index": 10
+    },
+    {
+      "char": "艾",
+      "index": 11
+    },
+    {
+      "char": "碍",
+      "index": 12
+    },
+    {
+      "char": "爱",
+      "index": 13
+    },
+    {
+      "char": "隘",
+      "index": 14
+    },
+    {
+      "char": "鞍",
+      "index": 15
+    }
+  ],
+  "train_content": [
+    {
+      "char": "啊",
+      "index": 0
+    },
+    {
+      "char": "阿",
+      "index": 1
+    },
+    {
+      "char": "埃",
+      "index": 2
+    },
+    {
+      "char": "挨",
+      "index": 3
+    },
+    {
+      "char": "哎",
+      "index": 4
+    },
+    {
+      "char": "唉",
+      "index": 5
+    },
+    {
+      "char": "哀",
+      "index": 6
+    },
+    {
+      "char": "皑",
+      "index": 7
+    },
+    {
+      "char": "癌",
+      "index": 8
+    },
+    {
+      "char": "蔼",
+      "index": 9
+    },
+    {
+      "char": "矮",
+      "index": 10
+    },
+    {
+      "char": "艾",
+      "index": 11
+    }
+  ],
+  "test_content": [
+    {
+      "char": "碍",
+      "index": 12
+    },
+    {
+      "char": "爱",
+      "index": 13
+    },
+    {
+      "char": "隘",
+      "index": 14
+    },
+    {
+      "char": "鞍",
+      "index": 15
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+python -m train.generator.train_generator_se \
+--vq-model VQ-8 \
+--gpt-model GPT-314M \
+--epochs 20 \
+--global-batch-size 32 \
+--rec-reward-weight 0.0 \
+--style-reward-weight 0.2 \
+--ocr-reward-weight 0.8 \
+--log-every 50 \
+--ckpt-every 2000 \
+--sample-every 1000 \
+--n-ref 8 \
+--kl-approx-method full_kl \
+--num-samples-per-group 4 \
+--se-fonts-num 8 \
+--update-ref-every-epoch 2 \
+--results-dir ./results/results_se \
+--data-dir-path ./data/fontimg \
+--data-style-info-json ./data/split_style_info.json \
+--data-content-info-json ./data/split_content_info.json \
+--style-reward-model-ckpt /path/to/style/reward/model/checkpoint \
+--generator-ckpt /path/to/generator/checkpoint \
+"$@"

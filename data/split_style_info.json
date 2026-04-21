@@ -1,0 +1,19 @@
+{
+  "basic_style": [
+    "font1",
+    "font2"
+  ],
+  "train_style": [
+    "font0",
+    "font1",
+    "font2",
+    "font3"
+  ],
+  "test_style": [
+    "font4",
+    "font5"
+  ],
+  "content_ref_style": [
+    "font0"
+  ]
+}
