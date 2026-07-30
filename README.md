@@ -13,6 +13,7 @@
 [![arXiv preprint](http://img.shields.io/badge/arXiv-2601.01593-b31b1b?logo=arxiv)](https://arxiv.org/abs/2601.01593) 
 [![Homepage](https://img.shields.io/badge/Homepage-GAR--Font-orange)](https://xtryer-s.github.io/projects_pages/GAR_Font/)
 [![Code](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/xTryer-s/GAR-Font)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Weights-yellow?logo=huggingface)](https://huggingface.co/xTryer/GAR-Font)
 
 </div>
 
