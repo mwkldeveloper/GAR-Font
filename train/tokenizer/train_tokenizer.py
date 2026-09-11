@@ -126,7 +126,7 @@ def main(args):
     
     # check if resume training.
     if args.vq_ckpt:
-        checkpoint = torch.load(args.vq_ckpt, map_location="cpu")
+        checkpoint = torch.load(args.vq_ckpt, map_location="cpu", weights_only=False)
         vq_model.load_state_dict(checkpoint["model"])
         optimizer.load_state_dict(checkpoint["optimizer"])
 
